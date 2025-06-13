@@ -16,7 +16,7 @@ Built with **Angular 12**, **Spring Boot**, **MySQL**, and deployed using **AWS 
 
 
 ## 🧩 System Architecture
-![Architecture](Architecture.png) 
+![Architecture](screenshots/Architecture.png) 
 
 ## 🔧 Tech Stack
 
@@ -29,6 +29,18 @@ Built with **Angular 12**, **Spring Boot**, **MySQL**, and deployed using **AWS 
 | DevOps      | Jenkins CI/CD, AWS EC2, AWS S3    |
 | Hosting     | S3 for frontend, EC2 for backend  |
 
+## 📸 Screenshots
+
+### Login 
+![Home](screenshots/Login.png) 
+### User Vendor View
+![Voice Mode](screenshots/UserVendor.png) 
+### User Product View
+![Voice Mode](screenshots/UserProduct.png) 
+### Admin Vendor View
+![Dashboard](screenshots/AdminVendor.png)
+### Admin Product View
+![Voice Mode](screenshots/AdminProduct.png) 
 
 ## 📂 Project Structure
 
